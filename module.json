@@ -1,0 +1,13 @@
+{
+    "name": "AuthSanctum",
+    "alias": "authsanctum",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AuthSanctum\\Providers\\AuthSanctumServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
